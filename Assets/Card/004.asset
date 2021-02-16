@@ -1,0 +1,34 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 1625bc080c61447448841ed27755b2da, type: 3}
+  m_Name: 004
+  m_EditorClassIdentifier: 
+  name: 
+  HP: 3
+  Mana: 3
+  AddHP: 1
+  Damage: 0
+  Battlecry: 1
+  Death: 1
+  When_Attack: 0
+  can_AddHP_Skill: 1
+  can_DealDamage_Skill: 0
+  can_Move_Skill: 0
+  summon_Skill: 0
+  F: 0
+  B: 1
+  L: 0
+  R: 0
+  summon_index: 
+  Ability_Text: "\u0E40\u0E21\u0E37\u0E48\u0E2D\u0E25\u0E07\u0E2A\u0E19\u0E32\u0E21
+    \u0E41\u0E25\u0E30 \u0E15\u0E32\u0E22 \u0E40\u0E1E\u0E34\u0E48\u0E21\u0E1E\u0E25\u0E31\u0E07\u0E43\u0E2B\u0E49\u0E40\u0E1E\u0E37\u0E48\u0E2D\u0E14\u0E49\u0E32\u0E19\u0E2B\u0E25\u0E31\u0E07
+    1"
